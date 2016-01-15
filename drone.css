@@ -1,0 +1,16 @@
+	input{
+			padding: 10px;			
+		}
+#button1 {
+	width: 380px;
+	background-color: black;
+    border: none;
+	border-radius: 8px;	
+    color: white;
+	padding: 10px;
+    text-align: center;
+    text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+    display: inline-block;
+}
